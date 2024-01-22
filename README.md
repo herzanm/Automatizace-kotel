@@ -10,4 +10,4 @@ Either one of them sends a signal to central terminal strip Arduino needs to det
 At both cases the gas boiler needs a signal to turn on.
 
 # Motivation
-Home project due to the company providing me the heating system was telling me to purchased super expensive device that could do the operation I was able to manage by Arduino
+Home-made solution, due to the company providing me the heating system was telling me to purchased super expensive device that could do the operation I was able to manage by Arduino
